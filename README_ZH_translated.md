@@ -1,4 +1,3 @@
-```markdown
 # SCHALE.GameServer
 
 **This document is based on [https://github.com/rafi1212122/SCHALE.GameServer](https://github.com/rafi1212122/SCHALE.GameServer) and personal operational experience. Please download the resource configuration file from the link above. If you have any questions, please inquire on the Discord community.**
